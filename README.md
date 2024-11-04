@@ -1,1 +1,1 @@
-## ONERA Project: Sensitivity analysis for the design of multi-physics launchers.
+## Sensitivity analysis for the design of multi-physical launchers.
