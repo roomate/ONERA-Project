@@ -1,4 +1,4 @@
-## Sensitivity analysis for the design of multi-physical launchers.
+## 🚀 Sensitivity analysis for the design of multi-physical launchers.
 
 This repository contains the work carried out at ONERA during my third year, under the supervision of two researchers in the signal processing
 department. Within the frame os space engineering, this project was about getting familiar with a sensitivity indicator adapted to Multi-Disciplinary optimisation,
