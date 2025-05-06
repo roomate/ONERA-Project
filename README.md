@@ -1,6 +1,6 @@
 ## 🚀 Sensitivity analysis for the design of multi-physical launchers.
 
-This repository contains the work I did during my third year of ENSTA engineering curriculum at ONERA under the supervision of two researchers, Matthieu Balesdent and Loïc Brevault, in the Signal Processing Department.
+This repository contains the work I did during my third year of ENSTA engineering curriculum at ONERA under the supervision of two researchers, Mathieu Balesdent and Loïc Brevault, in the Signal Processing Department.
 
 ## First part
 In the context of space engineering, the first part of this project was about getting familiar with a sensitivity indicator adapted to multidisciplinary optimisation,
